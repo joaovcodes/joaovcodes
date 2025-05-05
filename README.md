@@ -5,23 +5,10 @@ Atualmente estou explorando bots, interfaces e soluções digitais enquanto me a
 
 Tenho paixão por projetos criativos, especialmente aqueles que envolvem interação com o usuário e automação.
 
----
-
-## 💼 Projetos
-
-### 🐾 [FofuriaBot](https://t.me/FofuriaBot)
-Bot do Telegram feito para os fãs da FURIA, com quiz, pontuação, personalidade e interações exclusivas.
-
-### 💰 [GranaApp](https://www.figma.com/file/c9gFERIgIVJjq5m5LbQnHv/GranaApp?type=design&node-id=0-1)
-Protótipo de aplicativo de controle financeiro pessoal. Simples, direto e com interface pensada pra facilitar a vida do usuário.
-
----
-
 ## 🛠️ Tecnologias que estou usando
 
 - Python
 - HTML e CSS
-- Git & GitHub
 - Figma
 - Telegram Bot API
 
